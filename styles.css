@@ -93,7 +93,7 @@ section#contact a {
     margin: 0 0.5em;
     text-decoration: none;
     color: var(--primary-text-color);
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 section#contact a:hover {
