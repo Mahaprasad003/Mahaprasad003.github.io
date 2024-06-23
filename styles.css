@@ -55,7 +55,7 @@ nav ul li a:hover {
 }
 
 .blog-post h2 {
-    font-family: 'Merriweather', serif;
+    font-family: 'Roboto Mono', monospace;
     font-size: 2em;
     font-weight: 700;
     margin-bottom: 10px;
@@ -63,7 +63,7 @@ nav ul li a:hover {
 }
 
 .blog-post .date {
-    font-family: 'Merriweather', serif;
+    font-family: 'Roboto Mono', monospace;
     font-size: 1em;
     font-style: italic;
     margin-bottom: 20px;
@@ -71,7 +71,7 @@ nav ul li a:hover {
 }
 
 .blog-post p {
-    font-family: 'Merriweather', serif;
+    font-family: 'Roboto Mono', monospace;
     font-size: 1.2em;
     line-height: 1.6em;
     margin-bottom: 20px;
