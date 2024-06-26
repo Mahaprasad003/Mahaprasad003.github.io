@@ -125,6 +125,12 @@ section#contact a:hover {
     margin-bottom: 20px;
 }
 
+hr.solid {
+    /* reduce opacity */
+    opacity: 0.5;
+    border-top: 3px solid #B0B0B0 ;
+  }
+
 /* Responsive Design */
 @media (max-width: 768px) {
     header h1 {
