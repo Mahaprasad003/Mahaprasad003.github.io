@@ -72,7 +72,7 @@ nav ul li a:hover {
 
 .blog-post p {
     font-family: 'Roboto Mono', monospace;
-    font-size: 1.2em;
+    font-size: 1.1em;
     line-height: 1.6em;
     margin-bottom: 20px;
     text-align: left;
@@ -172,3 +172,38 @@ hr.solid {
         font-size: 0.9em;
     }
 }
+/* Blog post preview styles */
+.blog-posts {
+    text-align: left;
+}
+
+.post {
+    margin-bottom: 2em;
+}
+
+.post h3 {
+    font-size: 1.5em; /* Heading size */
+    margin-bottom: 0.25em; /* Reduce space below heading */
+}
+
+.post .subheading {
+    font-size: 0.9em; /* Smaller font size for subheading */
+    color: var(--secondary-text-color); /* Use a lighter color */
+    margin-bottom: 1em; /* Space below subheading */
+    font-style: italic; /* Optional: Make it italic for distinction */
+}
+
+.post a {
+    text-decoration: none;
+    color: var(--primary-text-color);
+}
+
+.post a:hover {
+    color: var(--hover-color);
+}
+
+hr.solid {
+    opacity: 0.5;
+    border-top: 3px solid var(--secondary-text-color);
+}
+
